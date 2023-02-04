@@ -8,7 +8,7 @@ Fullstack Developer
 <img alt="programming_guy" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [shriomatic.me](http://www.shriomatic.me)
+* 🖥️  See my portfolio at [shriomatic.netlify.app](http://www.shriomatic.me)
 * ✉️  You can contact me at [tshriom@gmail.com](mailto:tshriom@gmail.com)
 * 🧠  I'm learning Next.js and Web3
 
